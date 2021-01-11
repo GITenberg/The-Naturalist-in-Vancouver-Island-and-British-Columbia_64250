@@ -1,11 +1,16 @@
 _repo: The-Naturalist-in-Vancouver-Island-and-British-Columbia_64250
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64250-h/images/cover.jpg
 creator:
   author:
     agent_name: Lord, John Keast
     gutenberg_agent_id: '52817'
     url: http://www.gutenberg.org/2009/agents/52817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64250#The-Naturalist-in-Vancouver-Island-and-British-Columbia
 gutenberg_issued: '2021-01-10'
 gutenberg_type: Text
 identifiers:
